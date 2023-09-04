@@ -1,4 +1,4 @@
-package com.example.nelson_firebase
+package com.nelson.nelsonFirebase
 
 import io.flutter.embedding.android.FlutterActivity
 
