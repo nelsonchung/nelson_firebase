@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>987695651068-q83mlsk08td96n140iqsa523mcsq83qb.apps.googleusercontent.com</string>
+	<string>603334728014-9fcm1as2b1jf0c8lt2s90pu1nc689a51.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.987695651068-q83mlsk08td96n140iqsa523mcsq83qb</string>
+	<string>com.googleusercontent.apps.603334728014-9fcm1as2b1jf0c8lt2s90pu1nc689a51</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCa6KiQeZNbp9XgK_OLNm_4-m6VeKJbJ3I</string>
+	<string>AIzaSyCSpzeE1WdkrMK2b4xrxLu6NkjEdY9eV5g</string>
 	<key>GCM_SENDER_ID</key>
-	<string>987695651068</string>
+	<string>603334728014</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.nelson.nelsonFirebase</string>
 	<key>PROJECT_ID</key>
-	<string>nelson-firebase</string>
+	<string>nelsonfirebase</string>
 	<key>STORAGE_BUCKET</key>
-	<string>nelson-firebase.appspot.com</string>
+	<string>nelsonfirebase.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:987695651068:ios:5278a2ac3efddbbdb4df79</string>
+	<string>1:603334728014:ios:6bdd7e5ac50d5e9b55a61f</string>
 </dict>
 </plist>
